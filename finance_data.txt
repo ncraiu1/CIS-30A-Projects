@@ -1,0 +1,10 @@
+Name: Daniel
+Budget Period: weekly
+Income: $5000.00
+Expenses:
+  Rent: $1500.00
+  Gas: $100.00
+  Car Insurance: $400.00
+  Car payment: $450.00
+  Groceries: $200.00
+
